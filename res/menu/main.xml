@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.swibo_2.MainActivity" >
+    <item android:id="@+id/action_player1" android:title="@string/action_player1" android:orderInCategory="2"></item>
+    <item android:id="@+id/action_player2" android:title="@string/action_player2" android:orderInCategory="3"></item>
+    <item android:id="@+id/action_ip" android:orderInCategory="1" android:title="@string/action_ip"></item>
+    <item android:id="@+id/action_setDefault" android:title="@string/action_setDefault" android:orderInCategory="100"></item>
+    <item android:id="@+id/action_website" android:title="@string/action_website" android:orderInCategory="4"></item>
+
+</menu>
